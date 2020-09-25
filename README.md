@@ -1,0 +1,3 @@
+# Wooldridge-CPS91-Econometric-Analysis
+
+Data about 5,634 married women (out of which 3,286 are reported being in the labor force) is taken from the Wooldridge Current Population Survey (CPS91) Database for Wage/Income analysis. There are 24 variables that give information about married women, their husbands, their demographics, if they belong to any unions, or are a part of labor forces, whether they have kids, etc. This data is used to get an estimate of the standard wages equation of women using the Ordinary Least Square (OLS) method a.k.a. Linear Regression. The education level, years of experience, race, ethnicity are the independent variables (predictors) that drive the behavior of the dependent variable - income.
